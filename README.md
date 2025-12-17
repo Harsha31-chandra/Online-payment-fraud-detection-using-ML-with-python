@@ -14,7 +14,7 @@ This project implements a machine learning solution to detect fraudulent online 
 ## 📊 Dataset
 The dataset used in this project is **not** included in this repository due to its size (178MB). 
 You can download it from Kaggle here:
-[**🔗 Link WILL BE UPLOADED SOON**](PASTE_YOUR_KAGGLE_LINK_HERE)
+[**🔗 Link WILL BE UPLOADED SOON**](LINK_HERE)
 
 ## 🛠️ Requirements
 To run this notebook, you need the following Python libraries:
